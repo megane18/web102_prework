@@ -157,7 +157,8 @@ unfundedBtn.addEventListener("click", filterUnfundedOnly)
 fundedBtn.addEventListener("click", filterFundedOnly)
 allBtn.addEventListener("click", showAllGames)
 
-showAllGames()
+// showAllGames()
+filterFundedOnly()
 
 /*************************************************************************************
  * Challenge 6: Add more information at the top of the page about the company.
